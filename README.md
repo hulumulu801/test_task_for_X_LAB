@@ -20,6 +20,9 @@
 # Установка:
  pip3 install --upgrade pip
  
- pip install --upgrade setuptools
+ pip3 install --upgrade setuptools
  
+ pip3 install -r requirement.txt
  
+# Использование:
+ asda
