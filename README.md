@@ -58,4 +58,4 @@
 
 и следуем инструкции
 
-# P.S. в скрипты database_query.py и main.py редактируем под себя!
+# P.S.: скрипты database_query.py и main.py редактируем под себя!
