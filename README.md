@@ -35,4 +35,9 @@
  pip3 install -r requirement.txt
  
 # Использование:
- asda
+- переходим в папку Exercise_1
+
+- в консоли пишем:
+
+**python main.py 1.wav 8909055555 1 stage-1**
+
