@@ -17,4 +17,9 @@
  
     Снимок экрана от 2020-08-28 10-12-34.png
 
-aaa
+# Установка:
+ pip3 install --upgrade pip
+ 
+ pip install --upgrade setuptools
+ 
+ 
