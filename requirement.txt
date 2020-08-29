@@ -9,7 +9,6 @@ grpcio-tools==1.31.0
 idna==2.10
 jsonschema==3.0.1
 opuslib==3.0.1
-pkg-resources==0.0.0
 protobuf==3.13.0
 pyrsistent==0.16.0
 requests==2.24.0
